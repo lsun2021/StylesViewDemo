@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\AWorkspace\StylesViewDemo-master\MotionEventDemo.iml" filepath="E:\AWorkspace\StylesViewDemo-master\MotionEventDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StylesViewDemo-master.iml" filepath="$PROJECT_DIR$/StylesViewDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\AWorkspace\StylesViewDemo-master\app\app.iml" filepath="E:\AWorkspace\StylesViewDemo-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stylescoredemo/stylescoredemo.iml" filepath="$PROJECT_DIR$/stylescoredemo/stylescoredemo.iml" />
+      <module fileurl="file://E:\AWorkspace\StylesViewDemo-master\stylescoredemo\stylescoredemo.iml" filepath="E:\AWorkspace\StylesViewDemo-master\stylescoredemo\stylescoredemo.iml" />
+    </modules>
+  </component>
+</project>
